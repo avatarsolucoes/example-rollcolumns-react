@@ -4,6 +4,8 @@
 
 # example-rollcolumns-react
 > Example of using the react component: **rollcolumn-react**
+source: https://github.com/avatarsolucoes/rollcolumn-react
+view: http://rollcolumn-react.avatarsolucoesdigitais.com.br
 
 ## Install
 
