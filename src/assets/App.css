@@ -1,0 +1,47 @@
+html{
+  margin: 0 auto;
+  position: relative;
+  display: block;
+}
+body{
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  outline: none;
+  color: #FFF;
+  background-color: #0E2841;
+  border: 0;
+  max-width: 100vw;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+a{
+  color: inherit;
+
+}
+#root{
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.logo{
+  margin: 0 auto;
+  display: block;
+}
+
+.center{
+  text-align: center;
+}
+
+.content{
+  margin: 0 auto;
+  width: 900px;
+  max-width: 100%;
+  position: relative;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+@import './columns.css';

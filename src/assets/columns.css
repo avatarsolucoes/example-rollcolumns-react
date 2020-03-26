@@ -1,0 +1,42 @@
+.column-content{
+  color: black;
+  padding: 8px;
+  min-height: 50vh;
+}
+
+.column-content h1,
+.column-content h2{
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  margin-top: 16px;
+}
+
+.column-content label{
+  display: block;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background-color: #0D7ECC;
+  color: #fff;
+}
+
+.col1{
+  background-color: rgba(200, 255, 255, 0.7);
+}
+
+.col2{
+  background-color: rgba(255, 200, 255, 0.7);
+}
+
+.col3{
+  background-color: rgba(255, 255, 200, 0.7);
+}
