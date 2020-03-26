@@ -3,7 +3,7 @@
 </p>
 
 # example-rollcolumns-react
-> Example of using the react component: **rollcolumn-react**
+> Example of using the react component: ```rollcolumn-react```
 
 source: https://github.com/avatarsolucoes/rollcolumn-react
 
